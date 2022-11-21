@@ -1,10 +1,22 @@
 
 body {margin: 8px;
+    display: block;
 background-color: black;
 }
 
-header{
-    background-color: purple;
-    color: #8b0230;
+#mainHeading{
+    
+    color: red;
 }
-article{color:antiquewhite}
+article{color:antiquewhite;
+padding: 100px;
+border: 7px purple
+}
+
+.image {
+    border: 3px;
+    border-color: greenyellow;
+}
+.funParagraph, #testP{
+    color: green;
+}
