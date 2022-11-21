@@ -1,1 +1,10 @@
-/* Write your CSS here! */
+
+body {margin: 8px;
+background-color: black;
+}
+
+header{
+    background-color: purple;
+    color: #8b0230;
+}
+article{color:antiquewhite}
