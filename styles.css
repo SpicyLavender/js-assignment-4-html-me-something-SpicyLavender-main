@@ -1,5 +1,6 @@
 
 body {margin: 8px;
+    border: 2px solid purple;
     display: block;
 background-color: black;
 }
@@ -7,16 +8,19 @@ background-color: black;
 #mainHeading{
     
     color: red;
+    text-align: center;
 }
 article{color:antiquewhite;
 padding: 100px;
-border: 7px purple
+border: 7px solid greenyellow
 }
 
 .image {
-    border: 3px;
+    border: 3px solid;
     border-color: greenyellow;
 }
 .funParagraph, #testP{
     color: green;
 }
+footer{color: aliceblue;}
+p{text-indent: 5%;}
